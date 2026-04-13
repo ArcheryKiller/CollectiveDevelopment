@@ -1,0 +1,8 @@
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\bin\Debug\CollectiveDevelopment.exe.config
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\bin\Debug\CollectiveDevelopment.exe
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\bin\Debug\CollectiveDevelopment.pdb
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\obj\Debug\CollectiveDevelopment.csproj.AssemblyReference.cache
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\obj\Debug\CollectiveDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\obj\Debug\CollectiveDevelopment.exe
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\obj\Debug\CollectiveDevelopment.pdb
+C:\Users\edu-msk22-811s\Desktop\Иванов ПА\CollectiveDevelopment\CollectiveDevelopment\obj\Debug\CollectiveDevelopment.exe.config
