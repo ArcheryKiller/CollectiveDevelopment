@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -43,32 +43,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class10.cs" />
-    <Compile Include="Class11.cs" />
-    <Compile Include="Class12.cs" />
-    <Compile Include="Class13.cs" />
-    <Compile Include="Class14.cs" />
-    <Compile Include="Class15.cs" />
-    <Compile Include="Class16.cs" />
-    <Compile Include="Class17.cs" />
-    <Compile Include="Class2.cs" />
-    <Compile Include="Class3.cs" />
-    <Compile Include="Class4.cs" />
-    <Compile Include="Class5.cs" />
-    <Compile Include="Class6.cs" />
-    <Compile Include="Class7.cs" />
-    <Compile Include="Class8.cs" />
-    <Compile Include="Class9.cs" />
-    <Compile Include="Interface1.cs" />
-    <Compile Include="Interface10.cs" />
-    <Compile Include="Interface2.cs" />
-    <Compile Include="Interface3.cs" />
-    <Compile Include="Interface4.cs" />
-    <Compile Include="Interface5.cs" />
-    <Compile Include="Interface6.cs" />
-    <Compile Include="Interface7.cs" />
-    <Compile Include="Interface8.cs" />
+    <Compile Include="Point.cs" />
+    <Compile Include="Scanner.cs" />
+    <Compile Include="MultifunctionDevice.cs" />
+    <Compile Include="CreditCard.cs" />
+    <Compile Include="Cash.cs" />
+    <Compile Include="PaymentProcessor.cs" />
+    <Compile Include="ConsoleLogger.cs" />
+    <Compile Include="FileLogger.cs" />
+    <Compile Include="Worker.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="CircleShape.cs" />
+    <Compile Include="RectangleShape.cs" />
+    <Compile Include="DrawingUtils.cs" />
+    <Compile Include="ShapeUtils.cs" />
+    <Compile Include="Cube.cs" />
+    <Compile Include="Printer.cs" />
+    <Compile Include="IMovable.cs" />
+    <Compile Include="ILogger.cs" />
+    <Compile Include="IDrawable.cs" />
+    <Compile Include="IShape.cs" />
+    <Compile Include="I3DShape.cs" />
+    <Compile Include="IDevice.cs" />
+    <Compile Include="IPrinter.cs" />
+    <Compile Include="IScanner.cs" />
+    <Compile Include="IFax.cs" />
     <Compile Include="Interface9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
