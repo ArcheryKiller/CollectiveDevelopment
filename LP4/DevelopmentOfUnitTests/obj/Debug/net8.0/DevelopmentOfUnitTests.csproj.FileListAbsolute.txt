@@ -1,0 +1,15 @@
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\bin\Debug\net8.0\DevelopmentOfUnitTests.exe
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\bin\Debug\net8.0\DevelopmentOfUnitTests.deps.json
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\bin\Debug\net8.0\DevelopmentOfUnitTests.runtimeconfig.json
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\bin\Debug\net8.0\DevelopmentOfUnitTests.dll
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\bin\Debug\net8.0\DevelopmentOfUnitTests.pdb
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.AssemblyInfoInputs.cache
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.AssemblyInfo.cs
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.sourcelink.json
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.dll
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\refint\DevelopmentOfUnitTests.dll
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.pdb
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\DevelopmentOfUnitTests.genruntimeconfig.cache
+C:\Users\PavIvanov\Desktop\Дз\8й семестр\Dev\CollectiveDevelopment\LP4\DevelopmentOfUnitTests\obj\Debug\net8.0\ref\DevelopmentOfUnitTests.dll
